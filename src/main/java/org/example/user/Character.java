@@ -13,7 +13,6 @@ public class Character {
         this.mainWeapon = mainWeapon;
     }
 
-    // Getters y Setters
     public String getName() { return name; }
     public void setName(String name) { this.name = name; }
 
@@ -26,7 +25,6 @@ public class Character {
     public String getMainWeapon() { return mainWeapon; }
     public void setMainWeapon(String mainWeapon) { this.mainWeapon = mainWeapon; }
 
-    // Método para polimorfismo
     public void showDetails() {
         System.out.println("--- Detalles del Personaje ---");
         System.out.println("Nombre: " + name);
