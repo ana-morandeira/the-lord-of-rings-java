@@ -16,5 +16,4 @@ public class Orc extends Character {
         super.showDetails();
         System.out.println("Nivel de Agresión: " + aggressionLevel);
     }
-}Orc {
-
+}

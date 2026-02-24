@@ -1,4 +1,4 @@
-package org.example;
+import org.example.Character;
 
 public class Elf extends Character {
     private String magicType;
