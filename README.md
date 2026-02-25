@@ -33,4 +33,5 @@ El proyecto está organizado en el paquete `org.example` con la siguiente jerarq
 4. Los resultados se mostrarán en la terminal del sistema.
 
 ## ✒️ Autor
-* **Tu Nombre** - *Desarrollo del proyecto*
+
+  Ana Morandeira
