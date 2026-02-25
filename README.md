@@ -17,6 +17,14 @@ El proyecto está organizado en el paquete `org.example` con la siguiente jerarq
 * `Elf.java`, `Dwarf.java`, `Human.java`, `Hobbit.java`, `Orc.java`: Subclases específicas por raza.
 * `Main.java`: Clase principal que inicializa 15 personajes (3 por raza) y ejecuta la impresión por consola.
 
+## 📊 Diagrama de Clases
+
+A continuación se muestra el diseño de la jerarquía de clases realizado en Draw.io:
+
+<img width="750" height="742" alt="Diagrama-TheLordOfRings" src="https://github.com/user-attachments/assets/3d11bdbc-e352-4d0a-a8f3-d0ea95bfa66c" />
+
+
+
 ## 📋 Requisitos de la Tarea
 
 - [x] 5 razas diferentes con 3 personajes cada una.
